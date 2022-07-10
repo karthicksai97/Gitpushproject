@@ -9,4 +9,7 @@ public class Git_push_class {
 	private void Gitday2() {
 		System.out.println("Project 2");
 	}
+	private void Gitday3() {
+		System.out.println("Project 3");
+	}
 }
